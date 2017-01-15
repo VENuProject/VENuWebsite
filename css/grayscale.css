@@ -247,6 +247,17 @@ a:focus {
   background-size: cover;
   -o-background-size: cover;
 }
+.venu-section {
+  width: 100%;
+  padding: 50px 0;
+  color: white;
+  background: url(../img/launch-bg.jpg) no-repeat center center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
 #map {
   width: 100%;
   height: 200px;
