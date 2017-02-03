@@ -153,6 +153,16 @@ a:focus {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   }
 }
+.intro-stargazing {
+  display: table;
+  width: 100%;
+  padding: 100px 0;
+  text-align: center;
+  color: white;
+  background: url(../img/pic-stargazing/venu09.jpg) no-repeat top center scroll;
+  background-color: white;
+  background-size: 100% ;
+}
 .intro-learnnu {
   display: table;
   width: 100%;
